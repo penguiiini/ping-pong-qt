@@ -1,0 +1,9 @@
+phone_db = ''
+passw_db = ''
+name_db = ''
+fam_db = ''
+pol_db = ''
+age_db = ''
+count = ''
+y = 0
+date = ''
